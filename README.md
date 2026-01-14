@@ -1,23 +1,22 @@
 ## Hola, mi nombre es Gabriel Neumann👋
 
-### Aprendiendo y desarrollando proyectos en **Python**, enfocado en el **Web Scraping, automatización y extracción de datos**. 
+### Aprendiendo y desarrollando proyectos en **Python**, enfocado en **Web Scraping, automatización y extracción de datos**. 
 
-### Tecnologías utilizadas:
+### Tecnologías:
 - Python
 - Requests / Beautifulsoup
 - Selenium (en progreso)
 - Git & GitHub
 
-### Qué encontrarás en mi GitHub:
-- Proyectos personales
+### Qué encontrarás en este GitHub:
 - Proyectos de aprendizaje bien documentados
 - Scripts de web scraping
 - Automatizaciones en Python
 - Experimentos controlados
+- Proyectos pequeños y progresivos orientados a datos
 
 ### Mi objetivo:
-Subir todo lo aprendido en el último tiempo como programador junior, seguir aprendiendo y construyendo una base sólida en Python orientada al web scraping, datos y automatización 
-con proyectos reales progresivos.
+Construir una base sólida en Python aplicada a web scraping y automatización, mediante proyectos reales y escalables.
 <!--
 **gaboneumann/gaboneumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
