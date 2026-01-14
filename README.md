@@ -1,5 +1,6 @@
 ## Hola, mi nombre es Gabriel Neumann👋
 
+### Soy Freelance aprendiendo y desarrollando proyectos en **Python**, enfocado en el **Web Scraping, automatización y extracción de datos**. 
 <!--
 **gaboneumann/gaboneumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
