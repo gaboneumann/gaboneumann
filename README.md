@@ -3,10 +3,21 @@
 This GitHub contains Python projects focused on **web scraping and automation**, with a **primary focus on e-commerce data extraction**. 
 Each repository is **progressive**, well documented, and designed to be **reusable for real-world or client-oriented tasks**.
 
-### Technologies 
-- Python
-- Requests / BeautifulSoup
-- Selenium (in progress)
+---
+
+<div align="left">
+  <h3>🛠️ Stack</h3>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+         alt="python" width="40" height="40"/>
+  </a>
+  <ul>
+    <li>Requests / BeautifulSoup</li>
+    <li>Selenium (in progress)</li>
+  </ul>
+</div>
+  
+</div>
 
 ### Deliverables
 - Clean CSV / JSON datasets
