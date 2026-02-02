@@ -14,7 +14,7 @@ Each repository is **progressive**, well documented, and designed to be **reusab
 </a>
 
 <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/beautifulsoup/beautifulsoup-original.svg"
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UY8Ew9W6VR6wwnU9kavWvg.jpeg"
   alt="beautifulsoup" width="40" height="40"/>
 </a>
 
