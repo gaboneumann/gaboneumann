@@ -13,29 +13,13 @@ Each repository is **progressive**, well documented, and designed to be **reusab
   alt="python" width="40" height="40"/>
 </a>
 
-<a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
-  <span style="
-    display:inline-flex;
-    align-items:center;
-    justify-content:center;
-    background-color:#ffffff;
-    padding:6px;
-    border-radius:6px;
-  ">
-    <img
-      src="https://camo.githubusercontent.com/4e33f4426532df69cf7bcf9e739516ec3bbaeb81a2f2e993b0730166670b7ee2/68747470733a2f2f7363726170696e67616e742e636f6d2f626c6f672f696d672f626c6f672f62656175746966756c736f75702d6c6f676f2e706e67"
-      alt="BeautifulSoup"
-      width="40"
-      height="40"
-    />
-  </span>
-</a>
-
-
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"
   alt="selenium" width="40" height="40"/>
 </a>
+
+<img src="https://img.shields.io/badge/BeautifulSoup-bs4-white?style=flat&logo=python&logoColor=black"
+alt="BeautifulSoup"/>
 
 ### Deliverables
 - Clean CSV / JSON datasets
