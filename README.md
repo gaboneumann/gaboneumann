@@ -7,19 +7,25 @@ Each repository is **progressive**, well documented, and designed to be **reusab
 
 <div id="header" align="left">
 
-### :hammer_and_wrench:
+<h3>🛠️ Tech Stack</h3>
+
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-  alt="python" width="40" height="40"/>
+       alt="Python" width="40" height="40"/>
 </a>
 
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"
-  alt="selenium" width="40" height="40"/>
+       alt="Selenium" width="40" height="40"/>
 </a>
 
+<br><br>
+
 <img src="https://img.shields.io/badge/BeautifulSoup-bs4-white?style=flat&logo=python&logoColor=black"
-alt="BeautifulSoup"/>
+     alt="BeautifulSoup"/>
+
+</div>
+
 
 ### Deliverables
 - Clean CSV / JSON datasets
