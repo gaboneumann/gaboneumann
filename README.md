@@ -5,19 +5,23 @@ Each repository is **progressive**, well documented, and designed to be **reusab
 
 ---
 
-<div align="left">
-  <h3>🛠️ Stack</h3>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-         alt="python" width="40" height="40"/>
-  </a>
-  <ul>
-    <li>Requests / BeautifulSoup</li>
-    <li>Selenium (in progress)</li>
-  </ul>
-</div>
-  
-</div>
+<div id="header" align="left">
+
+### :hammer_and_wrench:
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+  alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/beautifulsoup/beautifulsoup-original.svg"
+  alt="beautifulsoup" width="40" height="40"/>
+</a>
+
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"
+  alt="selenium" width="40" height="40"/>
+</a>
 
 ### Deliverables
 - Clean CSV / JSON datasets
