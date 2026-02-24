@@ -1,55 +1,34 @@
-## Hi 👋 What you'll find here
+# Gabriel Neumann
+## Python Web Scraping & Automation
 
-This GitHub contains Python projects focused on **web scraping and automation**, with a **primary focus on e-commerce data extraction**. 
-Each repository is **progressive**, well documented, and designed to be **reusable for real-world or client-oriented tasks**.
+I build scrapers and automation scripts that extract, clean, 
+and deliver structured data — ready to use.
+
+**Specialization:** E-commerce data extraction · Price monitoring · 
+Bank reconciliation · Workflow automation
 
 ---
 
-<div id="header" align="left">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat&logo=scrapy&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-success?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-<h3>🛠️ Tech Stack</h3>
+---
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-       alt="Python" width="40" height="40"/>
-</a>
+## What I deliver
+- Structured datasets (CSV / JSON / Excel)
+- Scrapers with anti-detection for protected sites
+- Automated reconciliation and data pipelines
+- Configurable, documented, reusable code
 
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"
-       alt="Selenium" width="40" height="40"/>
-</a>
+## Projects
+→ **[buscalibre-web-scraper](https://github.com/gaboneumann/buscalibre-web-scraper)** — 7-layer anti-detection scraper · Cloudflare WAF evasion · 0 blocks  
+→ **[conciliador-bancario](https://github.com/gaboneumann/conciliador-bancario)** — Automated bank reconciliation · 94.2% match rate · 231 tests  
+→ **[vinyl-web-scraper](https://github.com/gaboneumann/vinyl-web-scraper)** — Two-step scraper with custom headers and rate limiting  
 
-<br><br>
+---
 
-<img src="https://img.shields.io/badge/BeautifulSoup-bs4-white?style=flat&logo=python&logoColor=black"
-     alt="BeautifulSoup"/>
-
-</div>
-
-
-### Deliverables
-- Clean CSV / JSON datasets
-
-### Projects
-- Well-documented learning projects
-- E-commerce web scraping scripts 
-- Python automation
-- Controlled experiments
-
-
-### Objective
-Build a solid foundation in Python applied to web scraping and automation through real, scalable projects, oriented to practical e-commerce use cases.
-<!--
-**gaboneumann/gaboneumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Available for freelance work · gaboneumann@gmail.com
