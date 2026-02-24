@@ -31,4 +31,4 @@ Bank reconciliation · Workflow automation
 
 ---
 
-📬 Available for freelance work · gaboneumann@gmail.com
+📬 Available for freelance work · g.neumann.paez@gmail.com
