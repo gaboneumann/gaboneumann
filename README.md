@@ -44,6 +44,6 @@ E-commerce data extraction · Price monitoring
 
 ## Pinned Repos — orden recomendado
 ```
-1. conciliador-bancario    ← primero siempre
-2. buscalibre-web-scraper
-3. vinyl-web-scraper
+[1. conciliador-bancario](https://github.com/gaboneumann/conciliador-bancario)
+[2. buscalibre-web-scraper](https://github.com/gaboneumann/buscalibre-web-scraper)
+[3. vinyl-web-scraper](https://github.com/gaboneumann/vinyl-web-scraper)
