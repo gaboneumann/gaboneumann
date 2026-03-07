@@ -1,11 +1,11 @@
 # Gabriel Neumann
 ## Python Automation | Financial & Administrative Processes
 
-I build Python automation systems that eliminate manual, repetitive 
-work — focused on financial processes, data reconciliation, and 
+I build Python automation systems that eliminate manual, repetitive
+work — focused on financial processes, data reconciliation, and
 structured data extraction.
 
-**Specialization:** Bank reconciliation · Workflow automation · 
+**Specialization:** Bank reconciliation · Workflow automation ·
 E-commerce data extraction · Price monitoring
 
 ---
@@ -20,30 +20,31 @@ E-commerce data extraction · Price monitoring
 ---
 
 ## What I deliver
+
 - Automated reconciliation systems with audit-ready Excel reports
 - Structured datasets (CSV / JSON / Excel)
 - Scrapers with anti-detection for protected sites
 - Configurable, documented, reusable code
 
 ## Projects
-→ **[conciliador-bancario](https://github.com/gaboneumann/conciliador-bancario)** 
+
+→ **[conciliador-bancario](https://github.com/gaboneumann/conciliador-bancario)**
 — Automated bank reconciliation · 94.2% match rate · 231 TDD tests
 
-→ **[buscalibre-web-scraper](https://github.com/gaboneumann/buscalibre-web-scraper)** 
+→ **[buscalibre-web-scraper](https://github.com/gaboneumann/buscalibre-web-scraper)**
 — 7-layer anti-detection scraper · Cloudflare WAF evasion · 0 blocks
 
-→ **[vinyl-web-scraper](https://github.com/gaboneumann/vinyl-web-scraper)** 
+→ **[vinyl-web-scraper](https://github.com/gaboneumann/vinyl-web-scraper)**
 — Two-step scraper with custom headers and rate limiting
 
 ---
 
 📬 Available for freelance work · g.neumann.paez@gmail.com
-```
 
 ---
 
 ## Pinned Repos — orden recomendado
-```
-[1. conciliador-bancario](https://github.com/gaboneumann/conciliador-bancario)
-[2. buscalibre-web-scraper](https://github.com/gaboneumann/buscalibre-web-scraper)
-[3. vinyl-web-scraper](https://github.com/gaboneumann/vinyl-web-scraper)
+
+1. [conciliador-bancario](https://github.com/gaboneumann/conciliador-bancario)
+2. [buscalibre-web-scraper](https://github.com/gaboneumann/buscalibre-web-scraper)
+3. [vinyl-web-scraper](https://github.com/gaboneumann/vinyl-web-scraper)
