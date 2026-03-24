@@ -43,7 +43,7 @@ E-commerce data extraction · Price monitoring
 
 ---
 
-## Pinned Repos — orden recomendado
+## Pinned Repos
 
 1. [conciliador-bancario](https://github.com/gaboneumann/conciliador-bancario)
 2. [buscalibre-web-scraper](https://github.com/gaboneumann/buscalibre-web-scraper)
