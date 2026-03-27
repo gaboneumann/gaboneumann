@@ -1,7 +1,7 @@
 # Gabriel Neumann
 ## Python Automation | Financial & Data Processes
-I build Python automation systems and web scrapers that eliminate manual, repetitive
-work, focused on financial processes, data reconciliation, and structured data extraction.
+I build Python automation systems and web scrapers that eliminate manual and repetitive
+work, focused on financial processes, data reconciliation and structured data extraction.
 
 **Specialization:** Bank reconciliation · Workflow automation · E-commerce data extraction
 
