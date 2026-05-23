@@ -10,6 +10,7 @@ work, focused on financial processes, data reconciliation and structured data ex
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-3EACA5?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
@@ -26,10 +27,10 @@ work, focused on financial processes, data reconciliation and structured data ex
 ## Projects
 
 **[conciliador-bancario](https://github.com/gaboneumann/conciliador-bancario)**
-Automated bank reconciliation · 87.8% match rate · 313 TDD tests
+1,008 transactions · 87.8% automatic reconciliation · 484 tests
 
 **[buscalibre-web-scraper](https://github.com/gaboneumann/buscalibre-web-scraper)**
-7-layer anti-detection scraper · AWS WAF bypass · 0 blocks
+600 books across 5 categories · Multi-Category Capability · 98%+ success · 0 blocks · 158 tests · 7-layer anti-detection
 
 **[vinyl-web-scraper](https://github.com/gaboneumann/vinyl-web-scraper)**
 Two-step scraper with custom headers and rate limiting
