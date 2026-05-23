@@ -2,7 +2,7 @@
 
 ## Backend Developer · Automation
 
-I design automated systems in Python for financial operations, logistics, and structured data extraction. Most of what I know came from building, iterating, and rebuilding systems in real conditions.
+I design automated systems in Python for financial operations, logistics and structured data extraction. Most of what I know came from building, iterating and rebuilding systems in real conditions.
 
 **Specialization:** Reconciliation systems · ETL pipelines · Crawling anti-bot
 
@@ -13,7 +13,7 @@ I design automated systems in Python for financial operations, logistics, and st
 - Automated reconciliation systems with audit-ready Excel reports
 - Structured datasets (CSV / JSON / Excel)
 - Scrapers with anti-detection for protected sites
-- Configurable, documented, reusable code
+- Configurable, documented and reusable code
 
 ## Core Skills
 
