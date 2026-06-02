@@ -43,8 +43,8 @@ Built after watching an accountant lose weekends reconciling banks by hand. Now 
 1,008 transactions · 87.8% automatic reconciliation · 484 tests
 
 **[buscalibre-web-scraper](https://github.com/gaboneumann/buscalibre-web-scraper)**<br>
-Started as "just scrape a bookstore" until Cloudflare's WAF kept winning. 7 layers later, it doesn't.<br>
-demo range 600 books across 5 categories, configurable to larger volumes · Multi-Category Capability · 100%+ success · 0 blocks · 158 tests · 8-layer anti-detection
+Web scraper that beats AWS WAF (CAPTCHA + token binding) on BuscaLibre.<br>
+High-volume multi-category extraction · 8 anti-detection layers · 100% success · 0 blocks · 178 tests · Playwright + BS4
 
 **[scraping-recon](https://github.com/gaboneumann/scraping-recon)**<br>
 Tired of building scrapers blind. This scans the target first so you know the antibot map before writing code.<br>
