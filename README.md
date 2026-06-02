@@ -44,7 +44,7 @@ Built after watching an accountant lose weekends reconciling banks by hand. Now 
 
 **[buscalibre-web-scraper](https://github.com/gaboneumann/buscalibre-web-scraper)**<br>
 Started as "just scrape a bookstore" until Cloudflare's WAF kept winning. 7 layers later, it doesn't.<br>
-600 books across 5 categories (demo range, configurable to larger volumes) · Multi-Category Capability · 100%+ success · 0 blocks · 158 tests · 7-layer anti-detection
+demo range 600 books across 5 categories, configurable to larger volumes · Multi-Category Capability · 100%+ success · 0 blocks · 158 tests · 8-layer anti-detection
 
 **[scraping-recon](https://github.com/gaboneumann/scraping-recon)**<br>
 Tired of building scrapers blind. This scans the target first so you know the antibot map before writing code.<br>
