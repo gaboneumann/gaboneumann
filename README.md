@@ -1,10 +1,8 @@
 # Gabriel Neumann
 
-## Backend Developer · Automation
+## Automated Python systems for finance and data operations
 
-I design automated systems in Python for financial operations, logistics and structured data extraction. Most of what I know came from building, iterating and rebuilding systems in real conditions.
-
-**Specialization:** Reconciliation systems · ETL pipelines · Crawling anti-bot
+I develop automated systems with Python for critical operations that cannot afford to fail. I specialize in complex processes that most developers avoid: bank reconciliations with pinpoint accuracy, processing large volumes of data, and extracting valuable information from websites with strong anti-bot protection. These systems eliminate the silent loss of time in companies and teams where data integrity is critical. My experience comes from real-world environments, ensuring robust design under pressure, monitoring them, and guaranteeing optimal performance going forward.
 
 ---
 
@@ -13,7 +11,7 @@ I design automated systems in Python for financial operations, logistics and str
 - Automated reconciliation systems with audit-ready Excel reports
 - Structured datasets (CSV / JSON / Excel)
 - Scrapers with anti-detection for protected sites
-- Configurable, documented and reusable code
+- Standalone Windows apps (.exe) that run without installing Python
 
 ## Core Skills
 
@@ -44,7 +42,7 @@ Built after watching an accountant lose weekends reconciling banks by hand. Now 
 
 **[buscalibre-web-scraper](https://github.com/gaboneumann/buscalibre-web-scraper)**<br>
 Web scraper that beats AWS WAF (CAPTCHA + token binding) on BuscaLibre.<br>
-High-volume multi-category extraction · 8 anti-detection layers · 100% success · 0 blocks · 178 tests · Playwright + BS4
+2500 books across multi-category extraction · 8 anti-detection layers · 100% success · 0 blocks · 166 tests · Playwright + BS4
 
 **[scraping-recon](https://github.com/gaboneumann/scraping-recon)**<br>
 Tired of building scrapers blind. This scans the target first so you know the antibot map before writing code.<br>
