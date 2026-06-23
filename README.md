@@ -36,7 +36,7 @@ I develop automated systems with Python for critical operations that cannot affo
 
 ## Projects
 
-**[conciliador-bancario](https://github.com/gaboneumann/conciliador-bancario)**<br>
+**[conciliador-bancario](https://github.com/gaboneumann/conciliador-bancario-v2.4)**<br>
 Built after watching an accountant lose weekends reconciling banks by hand. Now does it in seconds.<br>
 1,008 transactions · 87.8% automatic reconciliation · 484 tests
 
