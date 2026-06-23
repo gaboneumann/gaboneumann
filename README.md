@@ -2,7 +2,7 @@
 
 ## Automated Python systems for finance and data operations
 
-I develop automated systems with Python for critical operations that cannot afford to fail. I specialize in complex processes that most developers avoid: bank reconciliations with pinpoint accuracy, processing large volumes of data, and extracting valuable information from websites with strong anti-bot protection. These systems eliminate the silent loss of time in companies and teams where data integrity is critical. My experience comes from real-world environments, ensuring robust design under pressure, monitoring them, and guaranteeing optimal performance going forward.
+I develop automated systems with Python for critical operations that cannot afford to fail. I specialize in complex processes that most developers avoid: bank reconciliations with pinpoint accuracy, processing large volumes of data, and extracting valuable information from websites with strong anti-bot protection. These systems eliminate the silent loss of time in companies and teams where data integrity is critical. My experience comes from real-world environments, ensuring robust design under pressure, monitoring them and guaranteeing optimal performance going forward.
 
 ---
 
