@@ -36,7 +36,7 @@ I develop automated systems with Python for critical operations that cannot affo
 
 ## Projects
 
-**[conciliador-bancario](https://github.com/gaboneumann/conciliador-bancario-v2.4)**<br>
+**[conciliador-bancario-V2.4](https://github.com/gaboneumann/conciliador-bancario-v2.4)**<br>
 Built after watching an accountant lose weekends reconciling banks by hand. Now does it in seconds.<br>
 1,008 transactions · 87.8% automatic reconciliation · 484 tests
 
@@ -54,7 +54,7 @@ Two-step scraper with custom headers and rate limiting
 
 ## Currently building
 
-- **conciliador-bancario V3:** SII tax reconciliation layer (Chilean accounting standard)
+- **conciliador-bancario V4.0:** SII tax reconciliation layer (Chilean accounting standard)
 - **Next:** AI-powered automation bot: LLM integration, webhooks, context memory
 
 ---
