@@ -38,7 +38,7 @@ I develop automated systems with Python for critical operations that cannot affo
 
 **[conciliador-bancario-V2.4](https://github.com/gaboneumann/conciliador-bancario-v2.4)**<br>
 Built after watching an accountant lose weekends reconciling banks by hand. Now does it in seconds.<br>
-1,008 transactions · 87.8% automatic reconciliation · 265 tests
+5,000 transactions · 87.8% automatic reconciliation · 265 tests
 
 **[buscalibre-web-scraper](https://github.com/gaboneumann/buscalibre-web-scraper)**<br>
 Web scraper that beats AWS WAF (CAPTCHA + token binding) on BuscaLibre.<br>
