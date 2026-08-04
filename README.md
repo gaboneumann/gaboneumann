@@ -46,7 +46,7 @@ Web scraper that beats AWS WAF (CAPTCHA + token binding) on BuscaLibre.<br>
 
 **[scraping-recon](https://github.com/gaboneumann/scraping-recon)**<br>
 Tired of building scrapers blind. This scans the target first so you know the antibot map before writing code.<br>
-7 async modules · 379 tests · pre-scraping intelligence CLI · ~15-30 sec scan
+7 async modules · 394 tests · pre-scraping intelligence CLI · ~15-30 sec scan
 
 **[vinyl-web-scraper](https://github.com/gaboneumann/vinyl-web-scraper)**<br>
 Smaller two-step scraper. Kept minimal as a template for similar shapes.<br>
