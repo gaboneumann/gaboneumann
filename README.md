@@ -2,15 +2,16 @@
 
 ## Automated Python systems for finance and data operations
 
-I develop automated systems with Python for critical operations that cannot afford to fail. I specialize in complex processes that most developers avoid: bank reconciliations with pinpoint accuracy, processing large volumes of data, and extracting valuable information from websites with strong anti-bot protection. These systems eliminate the silent loss of time in companies and teams where data integrity is critical. My experience comes from real-world environments, ensuring robust design under pressure, monitoring them and guaranteeing optimal performance going forward.
+I build Python automation systems for repetitive, data-heavy operations: bank reconciliations, structured data processing, and web scraping in protected environments. My work turns manual processes into reliable workflows with tested logic and structured outputs, built for systems where correctness has to hold over time.
 
 ---
 
-## What I deliver
+## What I build
 
-- Automated reconciliation systems with audit-ready Excel reports
+- Bank reconciliation systems with automated matching and audit-ready Excel and PDF reports
 - Structured datasets (CSV / JSON / Excel)
 - Scrapers with anti-detection for protected sites
+- Pre-scraping recon tools that map anti-bot defenses before writing a scraper
 - Standalone Windows apps (.exe) that run without installing Python
 
 ## Core Skills
@@ -26,9 +27,8 @@ I develop automated systems with Python for critical operations that cannot affo
 
 ## How I work
 
-- **Spec-driven development (SDD):** Requirements and design specs written before code
-- **Test-driven development (TDD):** Pytest suites written before implementation
-- **Linux-native:** as primary OS · WSL2 secondary for Windows validation tests
+- **AI-augmented, rigor-verified:** I direct a multi-model AI pipeline by task. Every deliverable ships with written scope, tests, and documentation, not just working code.
+- **SDD & TDD:** requirements and pytest suites come before implementation.
 
 ---
 
@@ -44,11 +44,11 @@ Web scraper that beats AWS WAF (CAPTCHA + token binding) on BuscaLibre.<br>
 
 **[scraping-recon](https://github.com/gaboneumann/scraping-recon)**<br>
 Tired of building scrapers blind. This scans the target first so you know the antibot map before writing code.<br>
-7 async modules · 394 tests · pre-scraping intelligence CLI · ~15-30 sec scan
+7 async modules · 394 tests · pre-scraping intelligence CLI · ≤27 HTTP requests/scan
 
 **[vinyl-web-scraper](https://github.com/gaboneumann/vinyl-web-scraper)**<br>
 Smaller two-step scraper. Kept minimal as a template for similar shapes.<br>
-Two-step scraper with custom headers and rate limiting
+Two-step scraper with custom headers and rate limiting · No tests (intentional template)
 
 ## Currently building
 
