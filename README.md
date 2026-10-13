@@ -36,7 +36,7 @@ I build Python automation systems for repetitive, data-heavy operations: bank re
 
 **[conciliador-bancario-V2.4](https://github.com/gaboneumann/conciliador-bancario-v2.4)**<br>
 Built after watching an accountant lose weekends reconciling banks by hand. Now does it in seconds.<br>
-5,000 transactions · 87.8% automatic reconciliation · 265 tests
+5,000 transactions · 265 tests
 
 **[buscalibre-web-scraper](https://github.com/gaboneumann/buscalibre-web-scraper)**<br>
 Web scraper that beats AWS WAF (CAPTCHA + token binding) on BuscaLibre.<br>
